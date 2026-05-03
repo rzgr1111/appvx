@@ -4,7 +4,7 @@
       "id": "100010",
       "name": "Oyun Adı",
       "description": "eskilerden bir savaş oyunu",
-      "image_url": "https://github.com/rzgr1111/appvx/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-05-03%20222547.png",
+      "image_url": "https://raw.githubusercontent.com/rzgr1111/appvx/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-05-03%20222547.png",
       "download_url": "https://sszqkslkvrigzteyuqns.supabase.co/storage/v1/object/public/mod-files/1777745634425_assoult.rar?download=assoult.rar",
       "version": "1.0.0",
       "genre": "pvp",
