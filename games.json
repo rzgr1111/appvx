@@ -4,7 +4,7 @@
       "id": "100010",
       "name": "Oyun Adı",
       "description": "eskilerden bir savaş oyunu",
-      "image_url": "https://raw.githubusercontent.com/KULLANICI/REPO/main/images/oyun.jpg",
+      "image_url": "https://github.com/rzgr1111/appvx/blob/main/AssaultCube_logo.jpg",
       "download_url": "https://sszqkslkvrigzteyuqns.supabase.co/storage/v1/object/public/mod-files/1777745634425_assoult.rar?download=assoult.rar",
       "version": "1.0.0",
       "genre": "pvp",
